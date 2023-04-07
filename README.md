@@ -7,7 +7,7 @@
 
 * Generate the cities list using the citipy library. Create two empty lists, one for the latitude and longitude combinations and one for the cities names. Set a latitude range and a longitude range. Create a random list of latitude and longitude combinations using np.random. Identify the nearest cities to these location points and append the unique cities to a list. 
 
-* Requirement 1: Create plots to showcase the relationship between weather variables and latitude. 
+* 
 
 * Loop through all the cities in the previous list and attain the weather information (Max Temperature, Humitidy, Clouds, Wind Speed, Country, and Date) from the OpenWeather API. 
 
