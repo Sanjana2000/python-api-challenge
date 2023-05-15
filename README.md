@@ -1,7 +1,7 @@
 # python-api-challenge
 
 
-## WEATHERPY
+### WEATHERPY
 
 * For the first section of the project, load in all dependencies and import the OpenWeatherMap API key
 
@@ -23,7 +23,7 @@
 
 * Use the earlier defined function to create seperate linear regression plots for the Northern Hemisphere Data and the Southern Hemisphere Data for the following relationships: Temperature vs. Latitude, Humidity vs. Latitude, Cloudiness vs. Latitude, and Wind Speed vs. Latitude. 
 
-## VACATION PY
+### VACATION PY
 
 * First, load in dependencies and OpenWeatherMap API key. Next, load in the CSV file created in Part 1. 
 
